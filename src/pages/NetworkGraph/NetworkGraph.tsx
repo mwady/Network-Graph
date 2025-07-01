@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import GraphViewer from '../../components/charts/GraphViewer';
 import HCPDetails from '../../components/hcp/HCPDetails';
 import UknownHCP from '../../components/hcp/UknownHCP';

@@ -3,8 +3,7 @@ import { Link, useLocation } from "react-router";
 import {
   ChevronDownIcon,
   GridIcon,
-  HorizontaLDots,
-  PlugInIcon,
+  HorizontaLDots
 } from "../icons";
 import { useSidebar } from "../context/SidebarContext";
 

@@ -5,7 +5,6 @@ import NotFound from "./pages/OtherPage/NotFound";
 import Blank from "./pages/Blank";
 import AppLayout from "./layout/AppLayout";
 import { ScrollToTop } from "./components/common/ScrollToTop";
-import Home from "./pages/Dashboard/Home";
 import NetworkGraph from "./pages/NetworkGraph/NetworkGraph";
 
 export default function App() {
