@@ -1,0 +1,456 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Dr. Robert Carroll",
+      "specialty": "Neurologist",
+      "location": "Jeffreytown, Kiribati",
+      "avatar": "/avatars/1.jpg",
+      "patientsServed": 2643,
+      "successRate": 92,
+      "peers": 150,
+      "following": 100,
+      "bio": "Dr. Robert Carroll is a highly regarded neurologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Robert Carroll has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in neurologist.",
+      "education": [
+        {
+          "institution": "Johns Hopkins University",
+          "degree": "MD",
+          "specialization": "Neurologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dr. Brian Morales",
+      "specialty": "Dermatologist",
+      "location": "Pattonside, Panama",
+      "avatar": "/avatars/32.jpg",
+      "patientsServed": 1513,
+      "successRate": 92,
+      "peers": 196,
+      "following": 122,
+      "bio": "Dr. Brian Morales is a highly regarded dermatologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Brian Morales has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in dermatologist.",
+      "education": [
+        {
+          "institution": "Stanford University School of Medicine",
+          "degree": "MD",
+          "specialization": "Dermatologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Dr. Diana Thomas",
+      "specialty": "Orthopedic Surgeon",
+      "location": "New Abigail, Mozambique",
+      "avatar": "/avatars/68.jpg",
+      "patientsServed": 2173,
+      "successRate": 94,
+      "peers": 239,
+      "following": 131,
+      "bio": "Dr. Diana Thomas is a highly regarded orthopedic surgeon with extensive experience in clinical and academic settings.",
+      "about": "Dr. Diana Thomas has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in orthopedic surgeon.",
+      "education": [
+        {
+          "institution": "University of Pennsylvania",
+          "degree": "MD",
+          "specialization": "Orthopedic Surgeon",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Dr. Anita Good",
+      "specialty": "Dentist",
+      "location": "West Alexisside, Guadeloupe",
+      "avatar": "/avatars/85.jpg",
+      "patientsServed": 1680,
+      "successRate": 95,
+      "peers": 124,
+      "following": 128,
+      "bio": "Dr. Anita Good is a highly regarded dentist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Anita Good has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in dentist.",
+      "education": [
+        {
+          "institution": "University of Michigan School of Dentistry",
+          "degree": "MD",
+          "specialization": "Dentist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Dr. Rachel Smith",
+      "specialty": "Pediatrician",
+      "location": "Kimberlybury, Wallis and Futuna",
+      "avatar": "/avatars/33.jpg",
+      "patientsServed": 1661,
+      "successRate": 93,
+      "peers": 266,
+      "following": 155,
+      "bio": "Dr. Rachel Smith is a highly regarded pediatrician with extensive experience in clinical and academic settings.",
+      "about": "Dr. Rachel Smith has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in pediatrician.",
+      "education": [
+        {
+          "institution": "Children\u2019s Hospital of Philadelphia",
+          "degree": "MD",
+          "specialization": "Pediatrician",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Dr. Nathan Dudley",
+      "specialty": "Urologist",
+      "location": "Kaiserport, Guinea",
+      "avatar": "/avatars/27.jpg",
+      "patientsServed": 2638,
+      "successRate": 92,
+      "peers": 167,
+      "following": 148,
+      "bio": "Dr. Nathan Dudley is a highly regarded urologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Nathan Dudley has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in urologist.",
+      "education": [
+        {
+          "institution": "Cleveland Clinic Lerner College of Medicine",
+          "degree": "MD",
+          "specialization": "Urologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Dr. Sarah Alvarez",
+      "specialty": "Gynecologist",
+      "location": "North Nathan, Saint Barthelemy",
+      "avatar": "/avatars/29.jpg",
+      "patientsServed": 2957,
+      "successRate": 95,
+      "peers": 179,
+      "following": 116,
+      "bio": "Dr. Sarah Alvarez is a highly regarded gynecologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Sarah Alvarez has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in gynecologist.",
+      "education": [
+        {
+          "institution": "Mayo Clinic Alix School of Medicine",
+          "degree": "MD",
+          "specialization": "Gynecologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Dr. Bobby Stanton",
+      "specialty": "Oncologist",
+      "location": "West James, Montserrat",
+      "avatar": "/avatars/88.jpg",
+      "patientsServed": 2316,
+      "successRate": 92,
+      "peers": 182,
+      "following": 89,
+      "bio": "Dr. Bobby Stanton is a highly regarded oncologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Bobby Stanton has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in oncologist.",
+      "education": [
+        {
+          "institution": "MD Anderson Cancer Center",
+          "degree": "MD",
+          "specialization": "Oncologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Dr. Brenda Walker",
+      "specialty": "Psychiatrist",
+      "location": "Deanton, Australia",
+      "avatar": "/avatars/90.jpg",
+      "patientsServed": 1508,
+      "successRate": 96,
+      "peers": 299,
+      "following": 145,
+      "bio": "Dr. Brenda Walker is a highly regarded psychiatrist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Brenda Walker has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in psychiatrist.",
+      "education": [
+        {
+          "institution": "Columbia University Vagelos College of Physicians and Surgeons",
+          "degree": "MD",
+          "specialization": "Psychiatrist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Dr. Mike Thompson",
+      "specialty": "Radiologist",
+      "location": "Nicolehaven, Norfolk Island",
+      "avatar": "/avatars/91.jpg",
+      "patientsServed": 1057,
+      "successRate": 98,
+      "peers": 219,
+      "following": 155,
+      "bio": "Dr. Jennifer Thompson is a highly regarded radiologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Jennifer Thompson has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in radiologist.",
+      "education": [
+        {
+          "institution": "Massachusetts General Hospital",
+          "degree": "MD",
+          "specialization": "Radiologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Dr. Paul Simmons",
+      "specialty": "Endocrinologist",
+      "location": "Ericton, Jordan",
+      "avatar": "/avatars/97.jpg",
+      "patientsServed": 2935,
+      "successRate": 93,
+      "peers": 226,
+      "following": 120,
+      "bio": "Dr. Emily Simmons is a highly regarded endocrinologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Emily Simmons has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in endocrinologist.",
+      "education": [
+        {
+          "institution": "University of California, San Francisco",
+          "degree": "MD",
+          "specialization": "Endocrinologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Dr. Derek Freeman",
+      "specialty": "Ophthalmologist",
+      "location": "Turnerberg, Armenia",
+      "avatar": "/avatars/47.jpg",
+      "patientsServed": 2760,
+      "successRate": 97,
+      "peers": 181,
+      "following": 130,
+      "bio": "Dr. Derek Freeman is a highly regarded ophthalmologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Derek Freeman has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in ophthalmologist.",
+      "education": [
+        {
+          "institution": "Bascom Palmer Eye Institute",
+          "degree": "MD",
+          "specialization": "Ophthalmologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Dr. Veronica Morris",
+      "specialty": "Anesthesiologist",
+      "location": "North Marilyn, Kuwait",
+      "avatar": "/avatars/17.jpg",
+      "patientsServed": 2228,
+      "successRate": 98,
+      "peers": 141,
+      "following": 118,
+      "bio": "Dr. Veronica Morris is a highly regarded anesthesiologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Veronica Morris has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in anesthesiologist.",
+      "education": [
+        {
+          "institution": "Duke University School of Medicine",
+          "degree": "MD",
+          "specialization": "Anesthesiologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Dr. Ashley Vega",
+      "specialty": "General Practitioner",
+      "location": "Miguelburgh, Georgia",
+      "avatar": "/avatars/12.jpg",
+      "patientsServed": 1344,
+      "successRate": 99,
+      "peers": 197,
+      "following": 103,
+      "bio": "Dr. Ashley Vega is a highly regarded general practitioner with extensive experience in clinical and academic settings.",
+      "about": "Dr. Ashley Vega has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in general practitioner.",
+      "education": [
+        {
+          "institution": "University of Toronto Faculty of Medicine",
+          "degree": "MD",
+          "specialization": "General Practitioner",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Dr. Cheryl Nichols",
+      "specialty": "Cardiologist",
+      "location": "North Alyssastad, Burundi",
+      "avatar": "/avatars/59.jpg",
+      "patientsServed": 1850,
+      "successRate": 98,
+      "peers": 172,
+      "following": 104,
+      "bio": "Dr. Cheryl Nichols is a highly regarded cardiologist with extensive experience in clinical and academic settings.",
+      "about": "Dr. Cheryl Nichols has treated thousands of patients with a focus on personalized and evidence-based medicine. Recognized for excellence in patient care and innovative research in cardiologist.",
+      "education": [
+        {
+          "institution": "Harvard Medical School",
+          "degree": "MD",
+          "specialization": "Cardiologist",
+          "from": "Sep 2014",
+          "to": "Jun 2019"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "12",
+      "target": "6",
+      "type": "mentorship",
+      "details": "Dr. Nathan Dudley and Dr. Derek Freeman collaborated on 2 research projects."
+    },
+    {
+      "source": "11",
+      "target": "3",
+      "type": "research-collaboration",
+      "details": "Dr. Diana Thomas and Dr. Emily Simmons collaborated on 5 research projects."
+    },
+    {
+      "source": "12",
+      "target": "15",
+      "type": "mentorship",
+      "details": "Dr. Derek Freeman and Dr. Cheryl Nichols collaborated on 3 research projects."
+    },
+    {
+      "source": "2",
+      "target": "6",
+      "type": "research-collaboration",
+      "details": "Dr. Brian Morales and Dr. Nathan Dudley collaborated on 3 research projects."
+    },
+    {
+      "source": "10",
+      "target": "14",
+      "type": "shared-workplace",
+      "details": "Dr. Ashley Vega and Dr. Jennifer Thompson collaborated on 5 research projects."
+    },
+    {
+      "source": "14",
+      "target": "15",
+      "type": "mentorship",
+      "details": "Dr. Ashley Vega and Dr. Cheryl Nichols collaborated on 5 research projects."
+    },
+    {
+      "source": "14",
+      "target": "2",
+      "type": "shared-workplace",
+      "details": "Dr. Ashley Vega and Dr. Brian Morales collaborated on 4 research projects."
+    },
+    {
+      "source": "4",
+      "target": "6",
+      "type": "co-author",
+      "details": "Dr. Nathan Dudley and Dr. Anita Good collaborated on 1 research projects."
+    },
+    {
+      "source": "10",
+      "target": "6",
+      "type": "mentorship",
+      "details": "Dr. Jennifer Thompson and Dr. Nathan Dudley collaborated on 4 research projects."
+    },
+    {
+      "source": "4",
+      "target": "5",
+      "type": "shared-workplace",
+      "details": "Dr. Rachel Smith and Dr. Anita Good collaborated on 5 research projects."
+    },
+    {
+      "source": "14",
+      "target": "7",
+      "type": "research-collaboration",
+      "details": "Dr. Sarah Alvarez and Dr. Ashley Vega collaborated on 5 research projects."
+    },
+    {
+      "source": "10",
+      "target": "5",
+      "type": "mentorship",
+      "details": "Dr. Rachel Smith and Dr. Jennifer Thompson collaborated on 2 research projects."
+    },
+    {
+      "source": "10",
+      "target": "11",
+      "type": "research-collaboration",
+      "details": "Dr. Jennifer Thompson and Dr. Emily Simmons collaborated on 2 research projects."
+    },
+    {
+      "source": "13",
+      "target": "6",
+      "type": "shared-workplace",
+      "details": "Dr. Veronica Morris and Dr. Nathan Dudley collaborated on 4 research projects."
+    },
+    {
+      "source": "10",
+      "target": "3",
+      "type": "mentorship",
+      "details": "Dr. Jennifer Thompson and Dr. Diana Thomas collaborated on 1 research projects."
+    },
+    {
+      "source": "4",
+      "target": "9",
+      "type": "research-collaboration",
+      "details": "Dr. Anita Good and Dr. Brenda Walker collaborated on 2 research projects."
+    },
+    {
+      "source": "15",
+      "target": "2",
+      "type": "co-author",
+      "details": "Dr. Brian Morales and Dr. Cheryl Nichols collaborated on 5 research projects."
+    },
+    {
+      "source": "12",
+      "target": "13",
+      "type": "co-author",
+      "details": "Dr. Derek Freeman and Dr. Veronica Morris collaborated on 5 research projects."
+    },
+    {
+      "source": "12",
+      "target": "3",
+      "type": "co-author",
+      "details": "Dr. Derek Freeman and Dr. Diana Thomas collaborated on 4 research projects."
+    },
+    {
+      "source": "10",
+      "target": "7",
+      "type": "shared-workplace",
+      "details": "Dr. Jennifer Thompson and Dr. Sarah Alvarez collaborated on 1 research projects."
+    }
+  ]
+}
